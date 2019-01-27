@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.329
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskManager.Entities", "TaskManager.Entities\TaskManager.Entities.csproj", "{F1424954-4693-4A72-833E-8F7CAC961CE5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskManager.DataLib", "..\TaskManager.DataLib\TaskManager.DataLib.csproj", "{5B7819B3-A1E0-4893-9F3B-B7740BEB4AE7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{F1424954-4693-4A72-833E-8F7CAC961CE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F1424954-4693-4A72-833E-8F7CAC961CE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F1424954-4693-4A72-833E-8F7CAC961CE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B7819B3-A1E0-4893-9F3B-B7740BEB4AE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B7819B3-A1E0-4893-9F3B-B7740BEB4AE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B7819B3-A1E0-4893-9F3B-B7740BEB4AE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B7819B3-A1E0-4893-9F3B-B7740BEB4AE7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
